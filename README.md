@@ -25,5 +25,3 @@ AI 관상 분석을 바탕으로 회원의 관상 뜻풀이와 상대 회원 추
 - main_func - 관상 모델 구동에 필요한 함수
 - face_seg - 턱 하관을 분류하는 segmentation 모델
 - utils 폴더 - 각유형의 특징 추출, 분류, XGBoost 모델 학습 등 모음
-
-## 자세한 개발 내용은 제 [포트폴리오](https://pony1945.notion.site/Pony-s-Portfolio-177efa2438464410b5ef040dc67ce403?pvs=4)에서 확인 가능합니다.
